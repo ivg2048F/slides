@@ -9,7 +9,7 @@ Central Main Building, Room 623. Every Thursday from 19:00-21:00.  (PS: Online i
 ## Timeline
 
 - **20200903** &bull; FBH, CZ &bull; Making 3D Predictions with 2D Supervision [[slides](2020/09/0903-Making_3D_Predictions_with_2D_Supervision.pdf)], Deep Learning for 3D Face Reconstruction [[slides](2020/09/0903-Deep_Learning_for_3D_Face_Reconstruction.pdf)] 
-- **20200827** &bull; LZJ, PZY &bull; [[slides](2020/08/)], interpretability [[slides](2020/08/20200827-interpretability.pdf)] 
+- **20200827** &bull; LZJ, PZY &bull; Flex-Conv[[slides](2020/08/0827-flexconv.pdf)], interpretability [[slides](2020/08/20200827-interpretability.pdf)] 
 
 - **20200820** &bull; HK, XZW &bull; Local to Local features [[slides](2020/08/20200820-Intro-to-local-features.pdf)] [[supplementary1](2020/08/20200820-discriminative_patches.pdf)] [[supplementary2](2020/08/20200820-modern_full_pipeline.pdf)], Semi-, Weak-Supervision and Few Shot Learning [[slides](2020/08/20200820-Semi-supervision_weak_supervision_and_few_shot.pdf)] 
 
