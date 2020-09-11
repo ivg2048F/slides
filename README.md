@@ -8,6 +8,8 @@ Central Main Building, Room 623. Every Thursday from 19:00-21:00.  (PS: Online i
 
 ## Timeline
 
+- **20200910** &bull; FH, TZM &bull; Tree-structural LSTM for Coronary Segmentation [[slides](2020/09/0910-tree_structural_coronary_segmentation.pdf)], Self-supervised Learning for Temporal Correspondence [[slides](2020/09/0910-Self-supervised_Learning_for_Temporal_Correspondence_20200910.pdf)] 
+
 - **20200903** &bull; FBH, CZ &bull; Making 3D Predictions with 2D Supervision [[slides](2020/09/0903-Making_3D_Predictions_with_2D_Supervision.pdf)], Deep Learning for 3D Face Reconstruction [[slides](2020/09/0903-Deep_Learning_for_3D_Face_Reconstruction.pdf)] 
 - **20200827** &bull; LZJ, PZY &bull; Flex-Conv[[slides](2020/08/0827-flexconv.pdf)], interpretability [[slides](2020/08/20200827-interpretability.pdf)] 
 
