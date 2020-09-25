@@ -12,6 +12,13 @@ Central Main Building, Room 623. Every Thursday from 19:00-21:00.  (PS: Online i
 
 - **20200916** &bull; CWX, DYJ &bull; Imperfect Labels [[slides]](2020/09/0916-imperfect_labels.pdf), Dense 3D Face Alignment and Reconstruction [[slides]](2020/09/0916-3D_face_reconstruction_and_dense_alignment.pdf) 
 
+
+
+
+## History
+
+​	---2020---
+
 - **20200910** &bull; FH, TZM &bull; Tree-structural LSTM for Coronary Segmentation [[slides](2020/09/0910-tree_structural_coronary_segmentation.pdf)], Self-supervised Learning for Temporal Correspondence [[slides](2020/09/0910-Self-supervised_Learning_for_Temporal_Correspondence_20200910.pdf)] 
 
 - **20200903** &bull; FBH, CZ &bull; Making 3D Predictions with 2D Supervision [[slides](2020/09/0903-Making_3D_Predictions_with_2D_Supervision.pdf)], Deep Learning for 3D Face Reconstruction [[slides](2020/09/0903-Deep_Learning_for_3D_Face_Reconstruction.pdf)] 
@@ -44,10 +51,6 @@ Central Main Building, Room 623. Every Thursday from 19:00-21:00.  (PS: Online i
 - **20200312** &bull; GS, YQH &bull; Fingernet [[slides](2020/03/0312FingerNet_presentation.pdf)] 
 - **20200305** &bull; CWX, DYJ &bull; Synthesis and Inpainting [[slides](2020/03/文献分享0305.pdf)], Spatial CNN [[slides](2020/05/20200305_Spatial_CNN.pdf)] 
 - **20200220** &bull; TZM, FH &bull; Scene Graph Generation [[slides](2020/02/文献分享2.20-cvpr-2019-tutorial.pdf)] 
-
-
-
-## History
 
 ​	---2019---
 
